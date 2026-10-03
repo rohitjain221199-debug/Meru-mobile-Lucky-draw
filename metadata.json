@@ -1,0 +1,6 @@
+{
+  "name": "Meru Mobile Shop – Festive Lucky Draw",
+  "description": "Official Navratri, Dussehra & Diwali Festive Lucky Draw campaign for Meru Mobile Shop, Tyoda Road, Ganj Basoda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
